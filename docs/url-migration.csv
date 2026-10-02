@@ -1,0 +1,26 @@
+existing_path,planned_canonical,local_output,launch_action
+/,/,index.html,Preserve exact path and case; serve HTML at canonical
+/plantation-shutters,/plantation-shutters,plantation-shutters/index.html,Preserve exact path and case; serve HTML at canonical
+,/blinds,blinds/index.html,New route; serve HTML at canonical
+,/shades,shades/index.html,New route; serve HTML at canonical
+/roller-shades,/roller-shades,roller-shades/index.html,Preserve exact path and case; serve HTML at canonical
+/horizontal-blinds,/horizontal-blinds,horizontal-blinds/index.html,Preserve exact path and case; serve HTML at canonical
+,/vertical-blinds,vertical-blinds/index.html,New route; serve HTML at canonical
+,/solar-shades,solar-shades/index.html,New route; serve HTML at canonical
+,/zebra-shades,zebra-shades/index.html,New route; serve HTML at canonical
+,/cellular-shades,cellular-shades/index.html,New route; serve HTML at canonical
+,/woven-wood-shades,woven-wood-shades/index.html,New route; serve HTML at canonical
+,/motorized-shades,motorized-shades/index.html,New route; serve HTML at canonical
+,/service-areas,service-areas/index.html,New route; serve HTML at canonical
+/Pinellas-window-treatments,/Pinellas-window-treatments,Pinellas-window-treatments/index.html,Preserve exact path and case; serve HTML at canonical
+/Hillsborough-window-treatments,/Hillsborough-window-treatments,Hillsborough-window-treatments/index.html,Preserve exact path and case; serve HTML at canonical
+,/service-areas/largo,service-areas/largo/index.html,New city review draft; serve HTML at canonical after content review and authorized launch
+,/service-areas/clearwater,service-areas/clearwater/index.html,New city review draft; serve HTML at canonical after content review and authorized launch
+,/service-areas/st-petersburg,service-areas/st-petersburg/index.html,New city review draft; serve HTML at canonical after content review and authorized launch
+/about-5day,/about-5day,about-5day/index.html,Preserve exact path and case; serve HTML at canonical
+/gallary,/gallary,gallary/index.html,Preserve exact path and case; serve HTML at canonical
+/contact-5day,/contact-5day,contact-5day/index.html,Preserve exact path and case; serve HTML at canonical
+/privacy-policy,/privacy-policy,privacy-policy/index.html,Preserve exact path and case; serve HTML at canonical
+/terms-and-conditions,/terms-and-conditions,terms-and-conditions/index.html,Preserve exact path and case; serve HTML at canonical
+/home-7396,/,index.html,Configure server-side 301 after authorized launch; not implemented locally
+/*/,/*,,Redirect slash variant to its matching no-slash canonical for non-root pages; verify actual hosting behavior
