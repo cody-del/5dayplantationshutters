@@ -1,0 +1,621 @@
+{
+  "desktop": [
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Custom plantation shutters for your Tampa Bay home.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/plantation-shutters/",
+      "robots": "noindex, nofollow",
+      "tables": 1,
+      "title": "Plantation shutters.Made for your home.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/blinds/",
+      "robots": "noindex, nofollow",
+      "tables": 1,
+      "title": "Blinds for yourTampa Bay home.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/shades/",
+      "robots": "noindex, nofollow",
+      "tables": 1,
+      "title": "Window shades foryour Tampa Bay home.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/roller-shades/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Roller shades.Simple lines. Softer light.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/horizontal-blinds/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Faux wood blinds.A classic look. A custom fit.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/vertical-blinds/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Vertical blinds forsliding doors and wide windows.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/solar-shades/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Solar shades.Less glare. More view.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/zebra-shades/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Zebra shades.Layer the light.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/cellular-shades/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Cellular shades.A softer kind of light.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/woven-wood-shades/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Woven wood shades.Bring the texture home.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/motorized-shades/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Motorized shades.At your command.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Window treatments inPinellas and Hillsborough counties.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/Pinellas-window-treatments/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Window treatmentsfor Pinellas County.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/Hillsborough-window-treatments/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Window treatmentsfor Hillsborough County.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/largo/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Plantation shutters.Made here in Largo.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/clearwater/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Plantation shuttersfor Clearwater homes.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/st-petersburg/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Shutters, blinds & shades.For St. Petersburg.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/about-5day/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Made in Largo.Installed by our team.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/gallary/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Shutter and shade ideasfor your windows.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": true,
+      "h1": 1,
+      "overflow": false,
+      "path": "/contact-5day/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Let’s take a lookat your windows.",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/privacy-policy/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Privacy Policy",
+      "width": 1280
+    },
+    {
+      "broken": [],
+      "form": false,
+      "h1": 1,
+      "overflow": false,
+      "path": "/terms-and-conditions/",
+      "robots": "noindex, nofollow",
+      "tables": 0,
+      "title": "Terms & Conditions",
+      "width": 1280
+    }
+  ],
+  "mobile390": [
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/plantation-shutters/",
+      "tableOverflow": [
+        {
+          "container": 348,
+          "table": 680
+        }
+      ],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/blinds/",
+      "tableOverflow": [
+        {
+          "container": 348,
+          "table": 680
+        }
+      ],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/shades/",
+      "tableOverflow": [
+        {
+          "container": 348,
+          "table": 680
+        }
+      ],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/roller-shades/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/horizontal-blinds/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/vertical-blinds/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/solar-shades/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/zebra-shades/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/cellular-shades/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/woven-wood-shades/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/motorized-shades/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/Pinellas-window-treatments/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/Hillsborough-window-treatments/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/largo/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/clearwater/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/st-petersburg/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/about-5day/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/gallary/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": true,
+      "h1": 1,
+      "overflow": false,
+      "path": "/contact-5day/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/privacy-policy/",
+      "tableOverflow": [],
+      "width": 390
+    },
+    {
+      "broken": [],
+      "formBeforeDetails": null,
+      "h1": 1,
+      "overflow": false,
+      "path": "/terms-and-conditions/",
+      "tableOverflow": [],
+      "width": 390
+    }
+  ],
+  "mobile320": [
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/plantation-shutters/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/blinds/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/shades/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/roller-shades/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/horizontal-blinds/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/vertical-blinds/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/solar-shades/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/zebra-shades/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/cellular-shades/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/woven-wood-shades/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/motorized-shades/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/Pinellas-window-treatments/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/Hillsborough-window-treatments/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/largo/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/clearwater/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/service-areas/st-petersburg/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/about-5day/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/gallary/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/contact-5day/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/privacy-policy/",
+      "width": 320
+    },
+    {
+      "h1": 1,
+      "overflow": false,
+      "path": "/terms-and-conditions/",
+      "width": 320
+    }
+  ]
+}

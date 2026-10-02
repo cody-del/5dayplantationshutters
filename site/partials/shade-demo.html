@@ -1,0 +1,24 @@
+<section class="section shade-demo" id="motorized-demo" aria-labelledby="shade-demo-title" data-shade-demo data-state="closed">
+  <div class="container">
+    <div class="section-heading centered"><p class="eyebrow">Motorized shades</p><h2 id="shade-demo-title">Your light. At your command.</h2><p>Raise the shade, stop it where you like, or bring it back down.</p></div>
+    <div class="shade-demo-layout">
+      <div class="shade-demo-remote-area">
+        <div class="shade-demo-remote" role="group" aria-label="Shade remote controls">
+          <img src="/assets/shade-demo/remote.png" alt="" width="927" height="1697" loading="lazy">
+          <span class="shade-demo-invitation" aria-hidden="true">Try Me<svg viewBox="0 0 100 90" fill="none"><path d="M8 12C65 0 6 61 81 72M69 60l14 13-18 4" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
+          <button class="remote-hotspot remote-up" type="button" data-shade-action="up" aria-label="Raise shade" aria-pressed="false" aria-controls="shade-demo-screen" disabled><span class="sr-only">Up</span></button>
+          <button class="remote-hotspot remote-stop" type="button" data-shade-action="stop" aria-label="Stop shade" aria-pressed="false" aria-controls="shade-demo-screen" disabled><span class="sr-only">Stop</span></button>
+          <button class="remote-hotspot remote-down" type="button" data-shade-action="down" aria-label="Lower shade" aria-pressed="false" aria-controls="shade-demo-screen" disabled><span class="sr-only">Down</span></button>
+        </div>
+      </div>
+      <div class="shade-demo-view">
+        <div class="shade-demo-screen" id="shade-demo-screen" role="img" aria-label="Interactive demonstration of a roller shade opening and closing">
+          <video class="is-active" data-video="up" width="1280" height="720" muted playsinline preload="none" poster="/assets/shade-demo/shade-poster.jpg" disablepictureinpicture tabindex="-1" aria-hidden="true"><source src="/assets/shade-demo/shade-up.mp4?v=3" type="video/mp4"></video>
+          <video data-video="down" width="1280" height="720" muted playsinline preload="none" poster="/assets/shade-demo/shade-poster.jpg" disablepictureinpicture tabindex="-1" aria-hidden="true"><source src="/assets/shade-demo/shade-down.mp4?v=3" type="video/mp4"></video>
+        </div>
+        <p class="sr-only" data-demo-status role="status" aria-live="polite" aria-atomic="true">Fully closed</p>
+        <noscript><p class="sr-only">Enable JavaScript to try the remote.</p></noscript>
+      </div>
+    </div>
+  </div>
+</section>

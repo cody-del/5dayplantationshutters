@@ -1,0 +1,16 @@
+[build]
+  command = "python3 scripts/build_netlify.py"
+  publish = "dist"
+
+[build.environment]
+  PYTHON_VERSION = "3.12"
+  # Enable only when the production domain is connected and ready to replace the old site.
+  SITE_INDEXABLE = "false"
+
+[build.processing.html]
+  pretty_urls = false
+
+[[edge_functions]]
+  function = "canonical-paths"
+  path = "/*"
+  excludedPath = ["/assets/*", "/scripts/*", "/styles.css"]
